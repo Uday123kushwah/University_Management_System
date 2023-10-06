@@ -4,6 +4,8 @@ academic processes within a college or educational institution. Such a system is
 students to manage and access information related to courses, students, faculty, resources, and more. 
 Here's a description of the key features and components you might find in a College Management System developed using Java:
 
+All the Data save in Database which are made my MYSQL 
+
 1. User Authentication and Access Control:
    - First window is Splash window after 7 second you will see login Window automatically
    - Secure login and authentication system for administrators.
@@ -76,8 +78,16 @@ Here's a description of the key features and components you might find in a Coll
 14. User-Friendly Interface:
     - Intuitive and user-friendly interface for ease of use.
 
+15. Identity Card And Faculty Card
+    - Student apply for identity card
+    - Teacher Also need to apply for faculty Card
+    - After apply both can download it anytime      
+
 Developing a College Management System using Java typically involves using various Java technologies and frameworks such as Java EE (Enterprise Edition), 
 JavaFX (for desktop applications), and Java Spring (for web-based systems). It also involves database integration (e.g., MySQL, PostgreSQL) to 
 store and retrieve data efficiently.
 
-The specific features and functionalities may vary depending on the college's requirements and the sophistication of the system. The system should be scalable and adaptable to accommodate future changes and technological advancements in the education sector.
+Here the Images of project
+
+![Screenshot 10_7_2023 1_42_17 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/f7e0b51b-7fff-4663-94ca-e8f0bdb15e0d)
+![Screenshot 10_7_2023 1_42_17 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/7d0db92b-27b3-451e-a68c-d4dca82fa4b8)

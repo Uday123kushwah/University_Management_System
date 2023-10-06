@@ -90,4 +90,57 @@ store and retrieve data efficiently.
 Here the Images of project
 
 ![Screenshot 10_7_2023 1_42_17 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/f7e0b51b-7fff-4663-94ca-e8f0bdb15e0d)
-![Screenshot 10_7_2023 1_42_17 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/7d0db92b-27b3-451e-a68c-d4dca82fa4b8)
+
+after that Main Window
+![Screenshot 10_7_2023 1_42_51 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/3e4710fe-5eb5-415e-ac75-b2364590f2f1)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 10_7_2023 1_44_48 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/7b7ba470-91d4-493f-96ee-cd3be1dd034b)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 10_7_2023 1_48_18 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/03c4bae1-5e8b-49f1-bb5e-8fe562a42feb)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 10_7_2023 1_46_32 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/b439921d-812c-4739-9b46-8ac242206d7e)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------![Screenshot 10_7_2023 1_48_27 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/5acabdbb-21f0-4bbd-9246-ccbcdbb81df6)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 10_7_2023 1_48_42 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/5874a628-a001-4245-8163-7f2224fd6c24)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 10_7_2023 1_48_05 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/3707a1b0-6bc4-47e4-82c4-186280ce3280)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Screenshot 10_7_2023 1_47_52 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/7a920c8d-d3a5-45d7-994c-8c607a51340c)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 10_7_2023 1_48_34 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/35a55002-fe64-4e7b-b912-bc1a6ae6f8b9)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 10_7_2023 1_46_44 AM](https://github.com/Uday123kushwah/University_Management_System/assets/108609705/06a536ee-6028-40d2-8d74-eb8b48d0c4e8)
+
+
+
+
+
+
+
+
+
